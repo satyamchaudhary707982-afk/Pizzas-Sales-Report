@@ -1,4 +1,4 @@
-# Pizzas-Sales-Report
+# 🍕 Pizza Sales Analysis Dashboard (Power BI)
 
 Project Overview
 
